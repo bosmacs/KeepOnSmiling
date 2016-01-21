@@ -21,6 +21,11 @@
 	</dict>
 	<key>Content</key>
 	<dict>
+		<key>Blacklist</key>
+		<array>
+			<string>https://*.aws.amazon.com/*</string>
+			<string>https://aws.amazon.com/*</string>
+		</array>
 		<key>Scripts</key>
 		<dict>
 			<key>Start</key>
