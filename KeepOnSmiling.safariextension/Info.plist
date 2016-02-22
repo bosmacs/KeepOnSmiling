@@ -44,7 +44,7 @@
 		<dict>
 			<key>Allowed Domains</key>
 			<array>
-				<string>*.amazon.com</string>
+				<string>www.amazon.com</string>
 				<string>amazon.com</string>
 			</array>
 			<key>Include Secure Pages</key>
