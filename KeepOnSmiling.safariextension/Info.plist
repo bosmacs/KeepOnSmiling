@@ -11,7 +11,7 @@
 	<key>CFBundleInfoDictionaryVersion</key>
 	<string>6.0</string>
 	<key>CFBundleShortVersionString</key>
-	<string>1.1</string>
+	<string>1.2</string>
 	<key>CFBundleVersion</key>
 	<string>1</string>
 	<key>Chrome</key>
@@ -27,6 +27,8 @@
 			<string>https://aws.amazon.com/*</string>
 			<string>http://*.aws.amazon.com/*</string>
 			<string>http://aws.amazon.com/*</string>
+			<string>https://www.amazon.com/gp/wishlist/*</string>
+			<string>http://www.amazon.com/gp/wishlist/*</string>
 		</array>
 		<key>Scripts</key>
 		<dict>
