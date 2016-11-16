@@ -3,7 +3,7 @@
 <plist version="1.0">
 <dict>
 	<key>Builder Version</key>
-	<string>11601.5.17.1</string>
+	<string>12602.3.7</string>
 	<key>CFBundleDisplayName</key>
 	<string>KeepOnSmiling</string>
 	<key>CFBundleIdentifier</key>
@@ -29,6 +29,8 @@
 			<string>http://aws.amazon.com/*</string>
 			<string>https://www.amazon.com/gp/wishlist/*</string>
 			<string>http://www.amazon.com/gp/wishlist/*</string>
+			<string>https://www.amazon.de/gp/wishlist/*</string>
+			<string>http://www.amazon.de/gp/wishlist/*</string>
 		</array>
 		<key>Scripts</key>
 		<dict>
@@ -50,6 +52,8 @@
 			<array>
 				<string>www.amazon.com</string>
 				<string>amazon.com</string>
+				<string>www.amazon.de</string>
+				<string>amazon.de</string>
 			</array>
 			<key>Include Secure Pages</key>
 			<true/>
