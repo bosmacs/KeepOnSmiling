@@ -27,6 +27,8 @@
 			<string>https://aws.amazon.com/*</string>
 			<string>http://*.aws.amazon.com/*</string>
 			<string>http://aws.amazon.com/*</string>
+			<string>http://sellercentral.amazon.com/*</string>
+			<string>https://sellercentral.amazon.com/*</string>
 			<string>https://www.amazon.com/gp/wishlist/*</string>
 			<string>http://www.amazon.com/gp/wishlist/*</string>
 			<string>https://www.amazon.de/gp/wishlist/*</string>
