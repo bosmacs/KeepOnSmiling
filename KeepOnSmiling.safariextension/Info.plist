@@ -31,6 +31,8 @@
 			<string>http://www.amazon.com/gp/wishlist/*</string>
 			<string>https://www.amazon.de/gp/wishlist/*</string>
 			<string>http://www.amazon.de/gp/wishlist/*</string>
+			<string>https://www.amazon.co.uk/gp/wishlist/*</string>
+			<string>http://www.amazon.co.uk/gp/wishlist/*</string>
 		</array>
 		<key>Scripts</key>
 		<dict>
@@ -54,6 +56,8 @@
 				<string>amazon.com</string>
 				<string>www.amazon.de</string>
 				<string>amazon.de</string>
+				<string>www.amazon.co.uk</string>
+				<string>amazon.co.uk</string>
 			</array>
 			<key>Include Secure Pages</key>
 			<true/>
